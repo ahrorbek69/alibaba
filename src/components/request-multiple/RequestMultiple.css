@@ -46,12 +46,15 @@
     margin-right: 20px;
     -ms-flex: 1 1;
     flex: 1 1;
-    padding: 40px;
-    min-width: 460px;
+    padding: 30px;
+    min-width: 45%;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 0 0;
     background-image: url('https://img.alicdn.com/imgextra/i1/O1CN01E3kxMl1MuITrsjnQO_!!6000000001494-0-tps-800-375.jpg');
+}
+#input_longer{
+    width: 418px;
 }
 .requestMultiple__grid__cart__request__cart h3{
     font-size: 28px;
@@ -97,7 +100,7 @@ font-size: 16px;
     padding: 30px;
     border: 6px solid #dcdee3;
     margin: 20px 0;
-
+    
 
 }
 .form-body h3 {
@@ -119,7 +122,6 @@ font-size: 16px;
     height: 30px;
     line-height: 15px;
     color: #666;
-    -webkit-animation: scroll 25s infinite;
 }
  .form-item {
     margin-bottom: 20px;
